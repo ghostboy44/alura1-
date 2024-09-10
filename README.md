@@ -1,6 +1,5 @@
-## **## Readme.md Descontraído para o seu Projeto**
 
-### **D'Souza: Seu melhor amigo é um cachorro! **
+### **D'Souza: Seu melhor amigo é um cachorro! - Imersão Dev com Google Gemini**
 
 **O que faz essa aplicação?**
 
